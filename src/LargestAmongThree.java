@@ -10,7 +10,7 @@ public class LargestAmongThree {
 				System.out.println("a is largest " + a);
 
 			} else {
-				System.out.println("c is largest " + b);
+				System.out.println("c is largest " + c);
 			}
 		} else if (b > c) {
 			System.out.println("b is largest" + b);
